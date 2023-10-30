@@ -5,7 +5,7 @@ I’m a Data Engineer who is passionate about big data and programming, living a
 - 🔭 I’m currently working on: Python, Shell Script, Hadoop, Hive, SQL, Sqoop and others big data Tools...
 - 🌱 I’m currently learning: Cloud computing (AWS & Azure), Python, TDD, Automation Test
 - 💬 Ask me about: Java, Linux/Unix, MacOs, data engineering, big data, git
-- 📫 How to reach me: vanessa.anjos@protonmail.com | [LinkedIn](https://www.linkedin.com/in/vanessa-p-anjos/) 
+- 📫 How to reach me: nessa9anjos@gmail.com | [LinkedIn](https://www.linkedin.com/in/vanessa-p-anjos/) 
 - 😄 Pronouns: She / Ela / Ella 
 
 <div align="center">

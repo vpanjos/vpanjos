@@ -2,9 +2,9 @@
 
 I’m a Data Engineer who is passionate about big data and programming, living and working from São Paulo/Brazil. Some technologies I enjoy working with include Scala, Python, Spark and Hadoop ecosystem.
 
-- 🔭 I’m currently working on: Python, Scala, Spark, Google Cloud Plataform..
-- 🌱 I’m currently learning: Cloud computing (AWS & Azure), Python, TDD, Automation Test
-- 💬 Ask me about: Spark, Hadoop, Linux/Unix, MacOs and data engineering.
+- 🔭 I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
+- 🌱 I’m currently learning: Data architecture, test data management, data quality, data pipelines, cloud computing & more.
+- 💬 Ask me about: Data engineering, Social change/social justice, Diversity, Equity & Inclusion.
 - 📫 How to reach me: nessa9anjos@gmail.com | [LinkedIn](https://www.linkedin.com/in/vanessa-p-anjos/) 
 - 😄 Pronouns: She / Ela / Ella 
 

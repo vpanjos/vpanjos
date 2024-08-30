@@ -9,9 +9,9 @@ I’m a Data Engineer who is passionate about big data and programming, living a
 - 😄 Pronouns: She / Ela / Ella 
 
 <div align="center">
-  <a href="https://github.com/vssaAnjos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vssaAnjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vssaAnjos&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/vpanjos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vpanjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpanjos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ## 

@@ -1,6 +1,7 @@
 ### Hi there, I'm Vanessa Anjos 👋
 
-I’m a Data Engineer who is passionate about big data and programming, living and working from São Paulo/Brazil.
+I’m a Data Engineer who is continuously learning and pushing boundaries to deliver scalable data solutions. Living and working from São Paulo/Brazil.
+
 - 😄 Pronouns: She / Ela / Ella 
 - 🔭 I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
 - 🌱 I’m currently learning: Data architecture, test data management, data quality, data pipelines, cloud computing & more.

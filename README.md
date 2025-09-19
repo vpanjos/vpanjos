@@ -1,6 +1,6 @@
 ### Hi there, I'm Vanessa Anjos 👋
 
-I’m a Data Engineer who is passionate about big data and programming, living and working from São Paulo/Brazil. Some technologies I enjoy working with include Scala, Python, Spark and Hadoop ecosystem.
+I’m a Data Engineer who is passionate about big data and programming, living and working from São Paulo/Brazil.
 
 - 🔭 I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
 - 🌱 I’m currently learning: Data architecture, test data management, data quality, data pipelines, cloud computing & more.

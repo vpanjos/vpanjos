@@ -3,7 +3,7 @@
 I’m a Data Engineer who is continuously learning and pushing boundaries to deliver scalable data solutions. Living and working from São Paulo/Brazil.
 
 - 😄 Pronouns: She / Ela / Ella 
-- 🔭 I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
+- 🛠️ I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
 - 🌱 I’m currently learning: Data architecture, test data management, data quality, data pipelines, cloud computing & more.
 - 💬 Ask me about: Data engineering, Social change/social justice, Diversity, Equity & Inclusion.
 ### 📫 How to reach me:

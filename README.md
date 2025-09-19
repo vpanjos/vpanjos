@@ -1,12 +1,16 @@
 ### Hi there, I'm Vanessa Anjos 👋
 
 I’m a Data Engineer who is passionate about big data and programming, living and working from São Paulo/Brazil.
-
+- 😄 Pronouns: She / Ela / Ella 
 - 🔭 I’m currently working on: Python, Scala, Spark and Google Cloud Platform.
 - 🌱 I’m currently learning: Data architecture, test data management, data quality, data pipelines, cloud computing & more.
 - 💬 Ask me about: Data engineering, Social change/social justice, Diversity, Equity & Inclusion.
-- 📫 How to reach me: nessa9anjos@gmail.com | [LinkedIn](https://www.linkedin.com/in/vanessa-p-anjos/) 
-- 😄 Pronouns: She / Ela / Ella 
+### 📫 How to reach me:
+<div> 
+  <a href = "mailto:nessa9anjos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vanessa-p-anjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 <div align="center">
   <a href="https://github.com/vpanjos">
